@@ -1,0 +1,32 @@
+﻿Studie Statikanalyse:1 gestartet: 23.11.2022, 17:03:28
+Anzahl Konfigurationen: 1
+Studie Statikanalyse:1 abgeschlossen: 23.11.2022, 17:03:28
+Gesamtzeit 0:00:00
+
+Studie Statikanalyse:1 gestartet: 23.11.2022, 17:15:18
+Anzahl Konfigurationen: 1
+Standardnetz: 10438 Elemente, 17540 Knoten
+Berechnungszeit 3.1s
+Konvergenzrate: 50%
+Gesamtzahl der H Verfeinerungen  erreicht
+Studie        Worst Jacobian ratio :  1  on element 1 abgeschlossen: 23.11.2022, 17:15:25
+Gesamtzeit 0:00:07
+
+Studie Statikanalyse:1 gestartet: 23.11.2022, 17:19:15
+Anzahl Konfigurationen: 1
+Standardnetz: 11229 Elemente, 18677 Knoten
+Berechnungszeit 3.1s
+Konvergenzrate: 50%
+Gesamtzahl der H Verfeinerungen  erreicht
+Studie        Worst Jacobian ratio :  1  on element 1 abgeschlossen: 23.11.2022, 17:19:22
+Gesamtzeit 0:00:07
+
+Studie Statikanalyse:1 gestartet: 23.11.2022, 17:48:49
+Anzahl Konfigurationen: 1
+Standardnetz: 11085 Elemente, 19534 Knoten
+Berechnungszeit 3.2s
+Konvergenzrate: 50%
+Gesamtzahl der H Verfeinerungen  erreicht
+Studie        Worst Jacobian ratio :  1  on element 1 abgeschlossen: 23.11.2022, 17:48:57
+Gesamtzeit 0:00:08
+
